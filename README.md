@@ -33,11 +33,15 @@
 <h3 align="center">
 📊 GitHub Stats:
 </h3>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mafruk101&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mafruk101&theme=chartreuse-dark&hide_border=true&color=22D322&line=00FF66&height=466" width="500" alt="GitHub Activity Graph" />
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=mafruk101&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />    </td>
+    <td>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mafruk101&theme=chartreuse-dark&hide_border=true&color=22D322&line=00FF66&height=466" width="500" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 
 
@@ -55,12 +59,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:0 5px;"/>
   </a>
 </p>
-<p align="center">
-  Feel free to cantact: mafrukhosen1010@gmail.com
+<p align="center" >
+   Email: 
+  <font color="#22D322">
+    <a href="mailto:mafrukhosen1010@gmail.com"><font color="#00FD2A">mafrukhosen1010@gmail.com</font></a>
+  </font>
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mafruk101&label=Profile%20views&color=22D3EE&style=flat-square" alt="Mafruk101" />
+  <img src="https://komarev.com/ghpvc/?username=Mafruk101-profile&label=Profile%20Views&color=00FD2A&style=flat-square" alt="Mafruk101" />
 </p>
 
