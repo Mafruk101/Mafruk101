@@ -33,16 +33,10 @@
 <h3 align="center">
 📊 GitHub Stats:
 </h3>
-<table align="center" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="background-color: #0d1117; padding: 0;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=mafruk101&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td style="background-color: #0d1117; padding: 0;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mafruk101&theme=chartreuse-dark&hide_border=true&color=22D322&line=00FF66" width="500" alt="GitHub Activity Graph" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mafruk101&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mafruk101&theme=chartreuse-dark&hide_border=true&color=22D322&line=00FF66&height=466" width="500" alt="GitHub Activity Graph" />
+</p>
 
 
 
